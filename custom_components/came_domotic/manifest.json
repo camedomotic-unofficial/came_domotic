@@ -1,0 +1,12 @@
+{
+  "domain": "came_domotic",
+  "name": "Integration blueprint",
+  "codeowners": [
+    "@ludeeus"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/camedomotic-unofficial/came_domotic",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/camedomotic-unofficial/came_domotic/issues",
+  "version": "0.0.0"
+}
